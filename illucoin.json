@@ -1,0 +1,14 @@
+{
+  "chainId": 101,
+  "address": "2tSDtb2JjjiVZoGLjAkNSwxqUfY7t1PVswAXthYrUTaF",
+  "symbol": "ILLX",
+  "name": "IlluCoin",
+  "decimals": 0,
+  "logoURI": "https://raw.githubusercontent.com/illucoin/token-list/main/assets/mainnet/2tSDtb2JjjiVZoGLjAkNSwxqUfY7t1PVswAXthYrUTaF.png",
+  "tags": ["meme", "ritual"],
+  "extensions": {
+    "website": "https://illux.xyz",
+    "twitter": "https://twitter.com/illu_coin",
+    "description": "IlluCoin ($ILLX) is a high-trust meme token ignited by ritual burns, Freemason memes, and symbolic decentralization."
+  }
+}
