@@ -1,48 +1,61 @@
 # IlluCoin ($ILLX)
 
-**IlluCoin** is a high-trust ritual-themed meme token built on Solana, inspired by Freemason symbology, symbolic burns, and decentralized storytelling. $ILLX aims to ignite community participation through symbolic tokenomics and meme-based engagement.
+# 🜏 IlluCoin ($ILLX) — The Flame of Symbolic Finance 🜏
+
+**“Those who understand symbols shall inherit the future.”**  
+IlluCoin is not just a token. It is a ritual. A flame. A movement encoded on the Solana blockchain.
+
+Born from arcane memetics and the hidden geometry of Freemasonry,  
+$ILLX invites the chosen to partake in a decentralized mythology where every transaction is a ceremony.
 
 ---
 
-## 🪙 Token Information
+## 🧾 The Sacred Seal
 
-| Field | Value |
-|-------|-------|
+| Ritual Element | Value |
+|----------------|-------|
 | **Token Name** | IlluCoin |
 | **Symbol** | ILLX |
 | **Mint Address** | `2tSDtb2JjjiVZoGLjAkNSwxqUfY7t1PVswAXthYrUTaF` |
 | **Decimals** | 0 |
-| **Supply** | 1,000,000,000 ILLX |
-| **Token Type** | SPL Token (Solana) |
-| **Logo URI** | [PNG](https://raw.githubusercontent.com/illucoin/token-list/main/assets/mainnet/2tSDtb2JjjiVZoGLjAkNSwxqUfY7t1PVswAXthYrUTaF.png) |
+| **Total Supply** | 1,000,000,000 ILLX |
+| **Realm** | Solana SPL Token |
+| **Sigil (Logo)** | [View Sigil](https://raw.githubusercontent.com/illucoin/token-list/main/assets/mainnet/2tSDtb2JjjiVZoGLjAkNSwxqUfY7t1PVswAXthYrUTaF.png)
 
 ---
 
-## 🔥 Ritual Tokenomics
+## 🔥 Tokenomics of the Flame
 
-- 🔥 **4% Burn** through symbolic “rituals”
-- 👁️ **11% Reserve for community-driven symbolism**
-- 🌊 **85% Liquidity** to be provided at launch
+**This is not economics. It is esoterics.**
 
----
-
-## 🌐 Project Links
-
-- 🌐 Website: [https://illux.xyz](https://illux.xyz)
-- 🐦 Twitter: [https://twitter.com/illu_coin](https://twitter.com/illu_coin)
-- 🔗 Explorer: [Solana Explorer](https://explorer.solana.com/address/2tSDtb2JjjiVZoGLjAkNSwxqUfY7t1PVswAXthYrUTaF)
-- 📷 Logo Image: ![logo](https://raw.githubusercontent.com/illucoin/token-list/main/assets/mainnet/2tSDtb2JjjiVZoGLjAkNSwxqUfY7t1PVswAXthYrUTaF.png)
+- 🜍 **4% shall be burned** — through public ritual
+- 🕯️ **11% reserved** — for symbolic resonance and memecrafting
+- 🌊 **85% offered** — to the liquidity gods, that all may partake
 
 ---
 
-## 👥 Community
+## 🔗 Pathways of the Illuminated
 
-We're building a narrative-rich meme ecosystem centered around mystery, humor, and decentralized rituals. Join us as we explore the unknown.
+- 🐦 Oracle of X: [https://x.com/IllxToken72910](https://x.com/IllxToken72910)
+- 🌐 On-chain Manifestation: [Solana Explorer](https://explorer.solana.com/address/2tSDtb2JjjiVZoGLjAkNSwxqUfY7t1PVswAXthYrUTaF)
+- 🔮 Sigil Image:  
+  ![IlluCoin Sigil](https://raw.githubusercontent.com/illucoin/token-list/main/assets/mainnet/2tSDtb2JjjiVZoGLjAkNSwxqUfY7t1PVswAXthYrUTaF.png)
 
 ---
 
-## 🛠️ Contributions
+## 📜 Doctrine
 
-This repository contains metadata and assets for IlluCoin ($ILLX). Contributions welcome via pull requests.
-# token-list
-Metadata and logo for IlluCoin ($ILLX)
+> IlluCoin shall be summoned, distributed, and ascended by the will of its believers.  
+> Its flames will purge the unserious. Its rituals will reward the faithful.
+
+---
+
+## 🛠️ Contributions to the Temple
+
+This repository is the **Vault of Illumination**.  
+Pull requests are offerings. Documentation is scripture.
+
+Let the memetic flame spread.
+
+🜏 _Veritas Lux Mea._ 🜏
+
