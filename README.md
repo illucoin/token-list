@@ -36,7 +36,7 @@ $ILLX invites the chosen to partake in a decentralized mythology where every tra
 
 ## 🔗 Pathways of the Illuminated
 
-- 🐦 Oracle of X: [https://x.com/IllxToken72910](https://x.com/IllxToken72910)
+- 🐦 Oracle of X: [https://x.com/illx_official?s=11](https://x.com/illx_official?s=11)
 - 🌐 On-chain Manifestation: [Solana Explorer](https://explorer.solana.com/address/2tSDtb2JjjiVZoGLjAkNSwxqUfY7t1PVswAXthYrUTaF)
 - 🔮 Sigil Image:  
   ![IlluCoin Sigil](https://raw.githubusercontent.com/illucoin/token-list/main/assets/mainnet/2tSDtb2JjjiVZoGLjAkNSwxqUfY7t1PVswAXthYrUTaF.png)
