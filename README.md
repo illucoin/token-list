@@ -28,9 +28,8 @@ $ILLX invites the chosen to partake in a decentralized mythology where every tra
 
 **This is not economics. It is esoterics.**
 
-- 🜍 **4% shall be burned** — through public ritual
-- 🕯️ **11% reserved** — for symbolic resonance and memecrafting
-- 🌊 **85% offered** — to the liquidity gods, that all may partake
+- 🕯️ **5% reserved** — through public ritual and for symbolic resonance and memecrafting
+- 🌊 **95% offered** — to the liquidity gods, that all may partake
 
 ---
 
